@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "y38fw81+ejLyScY9udAvlBHA/tXoRuf7MCGSlL6OSnw=",
+  "Source": "TestAction",
+  "BasePath": "_content/TestAction",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
